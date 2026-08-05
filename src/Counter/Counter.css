@@ -93,3 +93,13 @@ button {
   transform: translateY(-4px);
   background: #2563eb;
 }
+
+.reset:active {
+  transform: scale(0.95);
+}
+.increase:active {
+  transform: scale(0.95);
+}
+.decrease:active {
+  transform: scale(0.95);
+}
